@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rollspel_0.1", "rollspel_0.1.csproj", "{44E349A9-9BDB-4F17-A9A7-59ECA2B20E0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44E349A9-9BDB-4F17-A9A7-59ECA2B20E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44E349A9-9BDB-4F17-A9A7-59ECA2B20E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44E349A9-9BDB-4F17-A9A7-59ECA2B20E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44E349A9-9BDB-4F17-A9A7-59ECA2B20E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F2D6115-73CA-4E7E-BFB5-F22EC19DDEE6}
+	EndGlobalSection
+EndGlobal
